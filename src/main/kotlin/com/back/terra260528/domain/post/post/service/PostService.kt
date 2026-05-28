@@ -1,5 +1,7 @@
 package com.back.terra260528.domain.post.post.service
 
+import com.back.terra260528.domain.post.post.entity.Post
+import com.back.terra260528.domain.post.post.repository.PostRepository
 import org.springframework.stereotype.Service
 
 @Service
